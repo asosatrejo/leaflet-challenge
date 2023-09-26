@@ -21,13 +21,13 @@ Visualize an earthquake dataset.
    * Your visualization should look something like the preceding map.
   
 ### Map Features
-- [ x ] TileLayer loads 
-- [ x ] Connects to geojson API using D3
-- [ x ] Markers with size corresponding to earthquake magnitude
-- [ x ] A legend showing the depth and their corresponding color
+- [x] TileLayer loads 
+- [x] Connects to geojson API using D3
+- [x] Markers with size corresponding to earthquake magnitude
+- [x] A legend showing the depth and their corresponding color
 
 ### Data Points
-- [ x ] Data points scale with magnitude level
-- [ x ] Data points colors change with depth level
-- [ x ] Each point has a tooltip with the Magnitude, location and depth
-- [ x ] All data points load in the correct locations
+- [x] Data points scale with magnitude level
+- [x] Data points colors change with depth level
+- [x] Each point has a tooltip with the Magnitude, location and depth
+- [x] All data points load in the correct locations
