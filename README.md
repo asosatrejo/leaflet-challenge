@@ -25,7 +25,7 @@ Visualize an earthquake dataset.
 - [x] TileLayer loads 
 - [x] Connects to geojson API using D3
 - [x] Markers with size corresponding to earthquake magnitude
-- [x] A legend showing the depth and their corresponding color
+- [ ] A legend showing the depth and their corresponding color
 
 ### Data Points
 - [x] Data points scale with magnitude level
