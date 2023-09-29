@@ -8,6 +8,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 ## Project Steps
 ### Part 1
 > Create the Earthquake Visualization
+![Image of the United States with circles representing earthquakes.](image.png)
 Visualize an earthquake dataset.
 1. Obtain your dataset.
    * The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and choose a dataset to visualize.
@@ -31,3 +32,8 @@ Visualize an earthquake dataset.
 - [x] Data points colors change with depth level
 - [x] Each point has a tooltip with the Magnitude, location and depth
 - [x] All data points load in the correct locations
+
+# Resources
+- [Leaflet Legend](https://codepen.io/haakseth/pen/KQbjdO)
+- [HTML Color Codes](https://htmlcolorcodes.com/)
+- [Citi Bike Activity - Really helped me out.]
